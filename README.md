@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nanasheL
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning pyton and web development
+- 🌱 I’m currently learning python and web development
 - 💞️ I’m looking to collaborate in everything i can learn something
 - 📫 How to reach me? On my email: filipekawen@gmail.com
 
